@@ -7,4 +7,8 @@ These are notes for super yet simple Computing for Science or sysCS.
 
 Currently this project consists of pdfs from keynote presentations and some example pages.
 
+
 Awesome change.
+
+Pull request from Alex!
+
