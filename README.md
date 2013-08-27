@@ -7,12 +7,8 @@ These are notes for super yet simple Computing for Science or sysCS.
 
 Currently this project consists of pdfs from keynote presentations and some example pages.
 
-<<<<<<< HEAD
 [index.md has the info](index.md)
-=======
 
 Awesome change.
 
 Pull request from Alex!
-
->>>>>>> master
